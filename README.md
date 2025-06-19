@@ -43,8 +43,8 @@ media_tracker/
 ## 🧪 How to Run
 
 ```bash
-git clone https://github.com/your-username/media-tracker.git
-cd media-tracker
+git clone https://github.com/50022005/OS-OtakuShelf.git
+cd OS-OtakuShelf
 python main.py
 
 ```
