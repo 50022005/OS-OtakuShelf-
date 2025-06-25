@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Attack on Titan",
+        "type": "anime",
+        "status": "Completed",
+        "rating": 9.5,
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "progress": "87 / 87"
+    },
+    {
+        "title": "Bunny Girl Senpai",
+        "type": "anime",
+        "status": "Completed",
+        "rating": 10.0,
+        "genres": [
+            "SuperNatural",
+            "Romance",
+            "Slice of Life"
+        ],
+        "progress": "24/24"
+    },
+    {
+        "title": "One Piece",
+        "type": "manga",
+        "status": "Reading",
+        "rating": 10.0,
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "progress": "Full"
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "type": "movie",
+        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+        "release_date": "2001-11-16",
+        "rating": 7.901,
+        "image_url": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+    },
+    {
+        "title": "Inception",
+        "type": "movie",
+        "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+        "release_date": "2010-07-15",
+        "rating": 8.369,
+        "image_url": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+        "status": "Completed"
+    },
+    {
+        "title": "Red Notice",
+        "type": "movie",
+        "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+        "release_date": "2021-11-04",
+        "rating": 6.764,
+        "image_url": "https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+        "status": "Completed",
+        "My_rating": 5.0
+    },
+    {
+        "title": "Boku no Hero Academia",
+        "type": "anime",
+        "chapters_or_episodes": 13,
+        "status": "Completed",
+        "score": 7.84,
+        "synopsis": "The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.\n\nSince he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izuku's unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Might's quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!\n\nEnduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this year's freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.\n\n[Written by MAL Rewrite]",
+        "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+        "mal_url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+        "My_rating": 1.0
+    }
+]
