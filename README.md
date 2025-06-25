@@ -92,10 +92,10 @@ Backend: Render
 Frontend: Vercel
 
 🙌 Contributing
-This is a solo learning project right now, but feel free to fork and play around! Contributions may be welcomed in the future.
+This is a solo learning project.
 
 📚 License
-This project is open source and available under the MIT License.
+IDK.
 
 👨‍💻 Author
 Muhammad Hashim Rahim
